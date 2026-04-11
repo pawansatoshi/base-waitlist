@@ -15,8 +15,8 @@ export const farcasterConfig = {
   },
   miniapp: {
     version: "1",
-    name: "Cubey", 
-    subtitle: "Your AI Ad Companion", 
+    name: "BASE", 
+    subtitle: "Join Waitlist", 
     description: "Ads",
     screenshotUrls: [`${ROOT_URL}/screenshot-portrait.png`],
     iconUrl: `${ROOT_URL}/blue-icon.png`,
